@@ -10,7 +10,7 @@ Le jeux se développe sur le théme de la ~~2nd guerre mondiale~~ Grèce Antique
 
 ## Histoire
 Dans *Hades*, vous incarnez **Zagreus**, le fils d’Hadès.
-Le but, s’enfuir du [royaume des morts] (https://fr.wikipedia.org/wiki/Enfers_grecs), en affrontant des personnages mythologiques comme l’Hydre de Lerne, le Minotaure, et donc Hadès en boss final du jeu. Au cours de son périple, Zagreus est aidé par certaines divinités comme Athéna, Zeus, Poséidon ou encore Dionysos.
+Le but, s’enfuir du [ royaume des morts ](https://fr.wikipedia.org/wiki/Enfers_grecs), en affrontant des personnages mythologiques comme l’Hydre de Lerne, le Minotaure, et donc Hadès en boss final du jeu. Au cours de son périple, Zagreus est aidé par certaines divinités comme Athéna, Zeus, Poséidon ou encore Dionysos.
 
 ### Points clés de l'histoire :
 1. Tentative d'évasion des Enfers.
