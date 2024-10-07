@@ -1,7 +1,8 @@
 # Hades: Présentation du Jeu
 
 ## Introduction
-**Hades** est un jeu de type *roguelike* développé par _Supergiant Games_.
+**Hades** est un jeu de type *roguelike* développé par [_Supergiant Games_](https://fr.wikipedia.org/wiki/Supergiant_Games) et est dévoilé au grand public le 6 décembre 2018.
+Le jeux se développe sur le théme de la ~~2nd guerre mondiale~~ Grèce Antique et de la mythologie. 
 
 > "Un excellent mélange d’action intense et de narration captivante." – Critique de XYZ.
 
