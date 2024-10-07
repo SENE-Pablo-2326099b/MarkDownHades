@@ -1,4 +1,5 @@
-<h1 style="text-align: center;">Hades: Présentation du Jeu</h1>
+# Hades: Présentation du Jeu 
+
 ![Hades.png](https://www.nintendo.com/eu/media/images/10_share_images/games_15/nintendo_switch_download_software_1/H2x1_NSwitchDS_Hades.png)
 
 ## Introduction
