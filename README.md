@@ -25,9 +25,18 @@ Or,il ne faut pas s’attendre à refaire le même parcours. En effet, l’envir
 
 Tier List [^1]
 
+
+## Boss de l'histoire :
+* Mégère
+* Tisiphone
+* Alecto
+* L'Hydre de Lerne
+* Thésée et Astérion
+* Hadès
+Tier List [^2]
 ---
 
-##Configuration minimale :
+## Configuration minimal :
 | Composant | Informations |
 |-----------|----------------|
 | CPU       | Dual Core 2.4 GHz |
@@ -47,4 +56,4 @@ Tier List [^1]
 
 
 [^1]: [Tier List Armes](https://gamewave.fr/hades/hades-tier-list-des-meilleures-armes/)
-
+[^2]: [Tier List Boss](https://tiermaker.com/categories/video-games/hades-boss-difficulty-626351)
