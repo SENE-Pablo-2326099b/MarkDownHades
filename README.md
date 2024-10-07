@@ -27,7 +27,7 @@ Tier List [^1]
 
 ---
 
-###Configuration minimale :
+##Configuration minimale :
 | Composant | Informations |
 |-----------|----------------|
 | CPU       | Dual Core 2.4 GHz |
