@@ -4,7 +4,7 @@
 **Hades** est un jeu de type *roguelike* développé par [_Supergiant Games_](https://fr.wikipedia.org/wiki/Supergiant_Games) et est dévoilé au grand public le 6 décembre 2018.
 Le jeux se développe sur le théme de la ~~2nd guerre mondiale~~ Grèce Antique et de la mythologie. 
 
-> "Un excellent mélange d’action intense et de narration captivante." – Critique de XYZ.
+> "Savez-vous ce que je vais faire après avoir écrit cette critique ? Rejouer à Hadès – pour le plaisir. C'est tellement bon. Peut-être que je pourrai m'échapper de l'enfer, peut-être pas, mais je serai heureux d'essayer à nouveau." – Critique de GryOnline.pl .
 
 ---
 
