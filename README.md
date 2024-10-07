@@ -22,6 +22,7 @@ Or,il ne faut pas s’attendre à refaire le même parcours. En effet, l’envir
 * Lame du Styx
 * Poings Jumeaux
 * Canon Adamantin
+
 Tier List [^1]
 
 ---
