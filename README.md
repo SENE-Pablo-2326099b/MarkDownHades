@@ -18,8 +18,14 @@ Dans *Hades*, vous incarnez **Zagreus**, le fils d’Hadès, qui tente de s’é
 
 ---
 
-## Gameplay
-Le gameplay de *Hades* se compose de plusieurs mécaniques intéressantes :
+## Configuration recommandé
+| Colonne 1     | Colonne 2     |
+|---------------|---------------|
+| Système d'exploitation| Windows 7 SP1/macOS 10.14+|
+| Processeur| Ligne 2, Col 2|
+| Mémoire| Ligne 3, Col 2|
+| Ligne 4, Col 1| Ligne 4, Col 2|
+| Ligne 5, Col 1| Ligne 5, Col 2|
 
 ### Armes disponibles
 - **Épée stygienne** (_Stygius_)
