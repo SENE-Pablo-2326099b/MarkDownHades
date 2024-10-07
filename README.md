@@ -23,7 +23,9 @@ Or, il ne faut pas s’attendre à refaire le même parcours. En effet, l’envi
 * Bouclier du chaos
 * Lance éternelle
 * Arc Traque-Coeur
-* Lame du Styx  [LameDuStyx.jpeg] (https://static.wikia.nocookie.net/hades_gamepedia_en/images/f/f7/Stygian_Blade.png/revision/latest?cb=20181213044607)
+* Lame du Styx
+
+[LameDuStyx.jpeg] (https://static.wikia.nocookie.net/hades_gamepedia_en/images/f/f7/Stygian_Blade.png/revision/latest?cb=20181213044607)
 * Poings Jumeaux
 * Canon Adamantin
 
