@@ -19,7 +19,6 @@ Dans *Hades*, vous incarnez **Zagreus**, le fils d’Hadès, qui tente de s’é
 ---
 
 ## Configuration recommandé
-| Colonne 1     | Colonne 2     |
 |---------------|---------------|
 | Système d'exploitation| Windows 7 SP1/macOS 10.14+|
 | Processeur| Ligne 2, Col 2|
