@@ -42,4 +42,12 @@ Or,il ne faut pas s’attendre à refaire le même parcours. En effet, l’envir
 | OS        | Windows 7 SP1   |
 | STO       | 20 GB available   space |
 
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
 
