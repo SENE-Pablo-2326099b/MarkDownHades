@@ -15,6 +15,9 @@ Dans *Hades*, vous incarnez **Zagreus**, le fils d’Hadès.
 Le but, s’enfuir du [ royaume des morts ](https://fr.wikipedia.org/wiki/Enfers_grecs), en affrontant des personnages mythologiques comme l’Hydre de Lerne, le Minotaure, et donc Hadès en boss final du jeu. Au cours de son périple, Zagreus est aidé par certaines divinités comme Athéna, Zeus, Poséidon ou encore Dionysos.
 Lors de chaque mort du personnage, vous recommencez au départ. 
 
+<mark>Marked text</mark>
+
+
 Or, il ne faut pas s’attendre à refaire le même parcours. En effet, l’environnement change en permanence. Mais à chaque mort, on gagne en expérience, on peut obtenir de nouvelles armes comme l'arc, le bouclier ou le canon adamentin, de nouveaux pouvoirs qui vont pouvoir nous aider à s’échapper.
 
 ## Armes de l'histoire :
