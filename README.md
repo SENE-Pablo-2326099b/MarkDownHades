@@ -11,11 +11,15 @@ Le jeux se développe sur le théme de la ~~2nd guerre mondiale~~ Grèce Antique
 ## Histoire
 Dans *Hades*, vous incarnez **Zagreus**, le fils d’Hadès.
 Le but, s’enfuir du [ royaume des morts ](https://fr.wikipedia.org/wiki/Enfers_grecs), en affrontant des personnages mythologiques comme l’Hydre de Lerne, le Minotaure, et donc Hadès en boss final du jeu. Au cours de son périple, Zagreus est aidé par certaines divinités comme Athéna, Zeus, Poséidon ou encore Dionysos.
+Lors de chaque mort du personnage, vous recommencez au départ. Or,l ne faut pas s’attendre à refaire le même parcours. En effet, l’environnement change en permanence. Mais à chaque mort, on gagne en expérience, on peut obtenir de nouvelles armes comme l'arc, le bouclier ou le trident, de nouveaux pouvoirs qui vont pouvoir nous aider à s’échapper.
 
-### Points clés de l'histoire :
-1. Tentative d'évasion des Enfers.
-2. Relations avec les dieux de l'Olympe.
-3. Découverte du passé de Zagreus.
+### Armes de l'histoire :
+* Bouclier du chaos
+* Lance éternelle
+* Arc Traque-Coeur
+* Lame du Styx
+* Poings Jumeaux
+* Canon Adamantin
 
 ---
 
