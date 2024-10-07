@@ -15,7 +15,7 @@ Lors de chaque mort du personnage, vous recommencez au départ.
 
 Or, il ne faut pas s’attendre à refaire le même parcours. En effet, l’environnement change en permanence. Mais à chaque mort, on gagne en expérience, on peut obtenir de nouvelles armes comme l'arc, le bouclier ou le canon adamentin, de nouveaux pouvoirs qui vont pouvoir nous aider à s’échapper.
 
-![alt text](https://www.nintendo.com/eu/media/images/10_share_images/games_15/nintendo_switch_download_software_1/H2x1_NSwitchDS_Hades.png)
+![Hades.png](https://www.nintendo.com/eu/media/images/10_share_images/games_15/nintendo_switch_download_software_1/H2x1_NSwitchDS_Hades.png)
 
 
 ## Armes de l'histoire :
