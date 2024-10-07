@@ -42,12 +42,9 @@ Or,il ne faut pas s’attendre à refaire le même parcours. En effet, l’envir
 | OS        | Windows 7 SP1   |
 | STO       | 20 GB available   space |
 
-```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
+Here's a sentence with a footnote. [^1]
 
+[^1]: This is the footnote.
 
+term
+: definition
