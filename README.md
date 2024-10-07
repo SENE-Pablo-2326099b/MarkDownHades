@@ -22,6 +22,8 @@ Or,il ne faut pas s’attendre à refaire le même parcours. En effet, l’envir
 * Lame du Styx
 * Poings Jumeaux
 * Canon Adamantin
+
+Tier List. [^1]
 ---
 
 ##### Configuration minimale :
@@ -44,7 +46,5 @@ Or,il ne faut pas s’attendre à refaire le même parcours. En effet, l’envir
 
 Here's a sentence with a footnote. [^1]
 
-[^1]: This is the footnote.
+[^1]: [Tier List Armes](https://gamewave.fr/hades/hades-tier-list-des-meilleures-armes/)
 
-term
-: definition
