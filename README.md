@@ -35,7 +35,9 @@ Tier List [^1]
 * L'Hydre de Lerne
 * Thésée et Astérion
 * Hadès
+
 Tier List [^2]
+
 ---
 
 ## Configuration minimal :
