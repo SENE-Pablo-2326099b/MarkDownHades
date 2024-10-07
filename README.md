@@ -14,12 +14,12 @@ Le but, s’enfuir du [ royaume des morts ](https://fr.wikipedia.org/wiki/Enfers
 Lors de chaque mort du personnage, vous recommencez au départ. Or,l ne faut pas s’attendre à refaire le même parcours. En effet, l’environnement change en permanence. Mais à chaque mort, on gagne en expérience, on peut obtenir de nouvelles armes comme l'arc, le bouclier ou le trident, de nouveaux pouvoirs qui vont pouvoir nous aider à s’échapper.
 
 ### Armes de l'histoire :
-* Bouclier du chaos
-* Lance éternelle
-* Arc Traque-Coeur
-* Lame du Styx
-* Poings Jumeaux
-* Canon Adamantin
+* ==Bouclier du chaos==
+* ==Lance éternelle==
+* ==Arc Traque-Coeur==
+* ==Lame du Styx==
+* ==Poings Jumeaux==
+* ==Canon Adamantin==
 
 ---
 
