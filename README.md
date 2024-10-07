@@ -22,8 +22,8 @@ Or,il ne faut pas s’attendre à refaire le même parcours. En effet, l’envir
 * Lame du Styx
 * Poings Jumeaux
 * Canon Adamantin
+Tier List [^1]
 
-Tier List. [^1]
 ---
 
 ##### Configuration minimale :
@@ -44,7 +44,6 @@ Tier List. [^1]
 | OS        | Windows 7 SP1   |
 | STO       | 20 GB available   space |
 
-Here's a sentence with a footnote. [^1]
 
 [^1]: [Tier List Armes](https://gamewave.fr/hades/hades-tier-list-des-meilleures-armes/)
 
