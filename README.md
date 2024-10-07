@@ -15,8 +15,7 @@ Dans *Hades*, vous incarnez **Zagreus**, le fils d’Hadès.
 Le but, s’enfuir du [ royaume des morts ](https://fr.wikipedia.org/wiki/Enfers_grecs), en affrontant des personnages mythologiques comme l’Hydre de Lerne, le Minotaure, et donc Hadès en boss final du jeu. Au cours de son périple, Zagreus est aidé par certaines divinités comme Athéna, Zeus, Poséidon ou encore Dionysos.
 Lors de chaque mort du personnage, vous recommencez au départ. 
 
-<mark>Marked text</mark>
-
+<span class="highlight">Marked text</span>
 
 Or, il ne faut pas s’attendre à refaire le même parcours. En effet, l’environnement change en permanence. Mais à chaque mort, on gagne en expérience, on peut obtenir de nouvelles armes comme l'arc, le bouclier ou le canon adamentin, de nouveaux pouvoirs qui vont pouvoir nous aider à s’échapper.
 
@@ -61,6 +60,12 @@ Tier List [^2]
 | OS        | Windows 7 SP1   |
 | STO       | 20 GB available   space |
 
+<style>
+    .highlight {
+        background-color: green; /* Couleur de surlignage */
+        color: white; /* Couleur du texte */
+    }
+</style>
 
 [^1]: [Tier List Armes](https://gamewave.fr/hades/hades-tier-list-des-meilleures-armes/)
 [^2]: [Tier List Boss](https://tiermaker.com/categories/video-games/hades-boss-difficulty-626351)
