@@ -9,7 +9,8 @@ Le jeux se développe sur le théme de la ~~2nd guerre mondiale~~ Grèce Antique
 ---
 
 ## Histoire
-Dans *Hades*, vous incarnez **Zagreus**, le fils d’Hadès, qui tente de s’échapper des Enfers. Tout au long du jeu, vous rencontrez plusieurs personnages mythologiques.
+Dans *Hades*, vous incarnez **Zagreus**, le fils d’Hadès.
+Le but, s’enfuir du [royaume des morts] (https://fr.wikipedia.org/wiki/Enfers_grecs), en affrontant des personnages mythologiques comme l’Hydre de Lerne, le Minotaure, et donc Hadès en boss final du jeu. Au cours de son périple, Zagreus est aidé par certaines divinités comme Athéna, Zeus, Poséidon ou encore Dionysos.
 
 ### Points clés de l'histoire :
 1. Tentative d'évasion des Enfers.
@@ -36,14 +37,4 @@ Dans *Hades*, vous incarnez **Zagreus**, le fils d’Hadès, qui tente de s’é
 | OS        | Windows 7 SP1   |
 | STO       | 20 GB available   space |
 
-### Configuration 
 
-### Armes disponibles
-- **Épée stygienne** (_Stygius_)
-- **Arc de Coronacht**
-- **Lance éternelle** (_Varatha_)
-
-### Exemples de mécaniques :
-```markdown
-- Chaque tentative d’évasion est différente, avec des niveaux générés aléatoirement.
-- Le joueur peut obtenir des bonus temporaires (les "boons") offerts par les dieux de l’Olympe.
