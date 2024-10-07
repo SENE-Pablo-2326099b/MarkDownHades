@@ -18,14 +18,25 @@ Dans *Hades*, vous incarnez **Zagreus**, le fils d’Hadès, qui tente de s’é
 
 ---
 
-## Configuration recommandé
+## Configuration minimale :
 | Composant | Informations |
 |-----------|----------------|
 | CPU       | Dual Core 2.4 GHz |
 | RAM       | 4 GB RAM       |
 | GPU       | 1GB VRAM / DirectX 10+ support |
 | OS        | Windows 7 SP1   |
-| STO       | 15 GB available space |
+| STO       | 15 GB available   space |
+
+## Configuration recommandée : 
+| Composant | Informations |
+|-----------|----------------|
+| CPU       | Dual Core 3.0 GHz+ |
+| RAM       | 8 GB RAM       |
+| GPU       | 2GB VRAM / DirectX 10+ support |
+| OS        | Windows 7 SP1   |
+| STO       | 20 GB available   space |
+
+### Configuration 
 
 ### Armes disponibles
 - **Épée stygienne** (_Stygius_)
