@@ -7,7 +7,7 @@
 1. [Introduction](#introduction)
 2. [Histoire](#histoire)
 3. [Armes de l'histoire](#armes-de-l-histoire)
-4. [Les boss](#Les-boss)
+4. [Les boss de l'histoire](#Les-boss-de-l-histoire)
 5. [Configuration](#configuration-minimale)
 
 
