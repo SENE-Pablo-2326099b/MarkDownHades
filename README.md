@@ -2,12 +2,12 @@
 
 ![Hades.png](https://www.nintendo.com/eu/media/images/10_share_images/games_15/nintendo_switch_download_software_1/H2x1_NSwitchDS_Hades.png)
 
-## Table des Matières
+## Sommaire :
 1. [Introduction](#introduction)
 2. [Histoire](#histoire)
 3. [Armes de l'histoire](#armes-de-lhistoire)
 4. [Boss de l'histoire](#boss-de-lhistoire)
-5. [Configuration](#configuration-minimal)
+5. [Configuration](#configuration-minimale)
 
 
 ## Introduction
