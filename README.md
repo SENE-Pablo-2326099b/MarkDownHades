@@ -7,7 +7,7 @@
 1. [Introduction](#introduction)
 2. [Histoire](#histoire)
 3. [Armes de l'histoire](#armes-de-l-histoire)
-4. [Boss de l'histoire](#boss-de-l-histoire)
+4. [Les boss](#Les-boss)
 5. [Configuration](#configuration-minimale)
 
 
@@ -60,7 +60,7 @@ Or, il ne faut pas s’attendre à refaire le même parcours. En effet, l’envi
 Tier List [^1]
 
 
-## Boss de l'histoire
+## Les boss
 * Mégère
 * Tisiphone
 * Alecto
@@ -72,7 +72,7 @@ Tier List [^2]
 
 ---
 
-## Configuration minimal
+## Configuration minimale
 | Composant | Informations |
 |-----------|----------------|
 | CPU       | Dual Core 2.4 GHz |
