@@ -25,37 +25,36 @@ Dans *Hades*, vous incarnez **Zagreus**, le fils d’Hadès.
 Le but, s’enfuir du [ royaume des morts ](https://fr.wikipedia.org/wiki/Enfers_grecs), en affrontant des personnages mythologiques comme <mark>l’Hydre de Lerne</mark>, <mark>le minotaure</mark>, et donc <mark>Hadès</mark> en boss final du jeu. 
 Au cours de son périple, Zagreus est aidé par certaines divinités comme Athéna, Zeus, Poséidon ou encore Dionysos.
 Lors de chaque mort du personnage, vous recommencez au départ. 
-<mark></mark>
 
 
 Or, il ne faut pas s’attendre à refaire le même parcours. En effet, l’environnement change en permanence. Mais à chaque mort, on gagne en expérience, on peut obtenir de nouvelles armes comme l'arc, le bouclier ou le canon adamentin, de nouveaux pouvoirs qui vont pouvoir nous aider à s’échapper.
 
 ## Armes du jeux
+
 * **Bouclier du chaos**
-
+###### *Arme de corps-à-corps*
 ![bouclier-du-chaos-aspect-de-chaos](https://github.com/user-attachments/assets/e8e89755-f841-40e4-9da8-ddd1cb9aaa71)
-
   
 * **Lance éternelle**
-
+###### *Arme à distance*
 ![1675386-achilles-aspect-spear-article_m-1 (1)](https://github.com/user-attachments/assets/6e380a5b-147f-42a8-9091-72557747c784)
 
   
 * **Arc Traque-Coeur**
-
+###### *Arme a distance*
   ![qds-removebg-preview](https://github.com/user-attachments/assets/d948b46f-25c3-4b07-a1fc-58e240773a01)
 
 * Lame du Styx
-
+###### *Arme de corps-à-corps*
   ![Hades.png](https://i.etsystatic.com/17249134/r/il/81fd66/3230455440/il_794xN.3230455440_c2a9.jpg)
 
 * **Poings Jumeaux**
-
+###### *Arme de corps-à-corps*
 ![1675510-poin-article_m-1](https://github.com/user-attachments/assets/363fc898-50a5-44e4-856b-3bc4f008fd2f)
 
   
 * **Canon Adamantin**
-  
+###### *Arme a distance*
 ![Capture_du_2024-10-07_12-05-01-removebg-preview](https://github.com/user-attachments/assets/b8b90c4e-425b-4e33-87a9-7564796f3826)
 
 Tier List [^1]
