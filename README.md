@@ -3,11 +3,13 @@
 ![Hades.png](https://www.nintendo.com/eu/media/images/10_share_images/games_15/nintendo_switch_download_software_1/H2x1_NSwitchDS_Hades.png)
 
 ## Sommaire :
+## Sommaire :
 1. [Introduction](#introduction)
 2. [Histoire](#histoire)
-3. [Armes de l'histoire](#armes-de-lhistoire)
-4. [Boss de l'histoire](#boss-de-lhistoire)
+3. [Armes de l'histoire](#armes-de-l-histoire)
+4. [Boss de l'histoire](#boss-de-l-histoire)
 5. [Configuration](#configuration-minimale)
+
 
 
 ## Introduction
@@ -27,7 +29,7 @@ Lors de chaque mort du personnage, vous recommencez au départ.
 
 Or, il ne faut pas s’attendre à refaire le même parcours. En effet, l’environnement change en permanence. Mais à chaque mort, on gagne en expérience, on peut obtenir de nouvelles armes comme l'arc, le bouclier ou le canon adamentin, de nouveaux pouvoirs qui vont pouvoir nous aider à s’échapper.
 
-## Armes de l'histoire :
+## Armes de l'histoire
 * **Bouclier du chaos**
 
 ![bouclier-du-chaos-aspect-de-chaos](https://github.com/user-attachments/assets/e8e89755-f841-40e4-9da8-ddd1cb9aaa71)
@@ -58,7 +60,7 @@ Or, il ne faut pas s’attendre à refaire le même parcours. En effet, l’envi
 Tier List [^1]
 
 
-## Boss de l'histoire :
+## Boss de l'histoire
 * Mégère
 * Tisiphone
 * Alecto
@@ -70,7 +72,7 @@ Tier List [^2]
 
 ---
 
-## Configuration minimal :
+## Configuration minimal
 | Composant | Informations |
 |-----------|----------------|
 | CPU       | Dual Core 2.4 GHz |
@@ -79,7 +81,7 @@ Tier List [^2]
 | OS        | Windows 7 SP1   |
 | STO       | 15 GB available   space |
 
-### Configuration recommandée : 
+### Configuration recommandée
 | Composant | Informations |
 |-----------|----------------|
 | CPU       | Dual Core 3.0 GHz+ |
