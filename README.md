@@ -91,5 +91,13 @@ Tier List [^2]
 | STO       | 20 GB available   space |
 
 
+#### Les sources :
+- https://gamewave.fr/hades/hades-tier-list-des-meilleures-armes/
+- https://tiermaker.com/categories/video-games/hades-boss-difficulty-626351
+- https://fr.wikipedia.org/wiki/Hades_(jeu_vid%C3%A9o)
+- https://www.gaming-family.com/hades-presentation/
+- https://www.senscritique.com/jeuvideo/hades/38590881
+
+
 [^1]: [Tier List Armes](https://gamewave.fr/hades/hades-tier-list-des-meilleures-armes/)
 [^2]: [Tier List Boss](https://tiermaker.com/categories/video-games/hades-boss-difficulty-626351)
