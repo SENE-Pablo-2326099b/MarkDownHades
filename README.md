@@ -29,7 +29,7 @@ Lors de chaque mort du personnage, vous recommencez au départ.
 
 Or, il ne faut pas s’attendre à refaire le même parcours. En effet, l’environnement change en permanence. Mais à chaque mort, on gagne en expérience, on peut obtenir de nouvelles armes comme l'arc, le bouclier ou le canon adamentin, de nouveaux pouvoirs qui vont pouvoir nous aider à s’échapper.
 
-## Armes de l'histoire
+## Armes du jeux
 * **Bouclier du chaos**
 
 ![bouclier-du-chaos-aspect-de-chaos](https://github.com/user-attachments/assets/e8e89755-f841-40e4-9da8-ddd1cb9aaa71)
@@ -60,7 +60,7 @@ Or, il ne faut pas s’attendre à refaire le même parcours. En effet, l’envi
 Tier List [^1]
 
 
-## Les boss de l'histoire
+## Les boss du jeux
 * Mégère
 * Tisiphone
 * Alecto
@@ -81,7 +81,7 @@ Tier List [^2]
 | OS        | Windows 7 SP1   |
 | STO       | 15 GB available   space |
 
-### Configuration recommandée
+## Configuration recommandée
 | Composant | Informations |
 |-----------|----------------|
 | CPU       | Dual Core 3.0 GHz+ |
