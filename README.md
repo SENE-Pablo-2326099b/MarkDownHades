@@ -2,6 +2,14 @@
 
 ![Hades.png](https://www.nintendo.com/eu/media/images/10_share_images/games_15/nintendo_switch_download_software_1/H2x1_NSwitchDS_Hades.png)
 
+## Table des Matières
+1. [Introduction](#introduction)
+2. [Histoire](#histoire)
+3. [Armes de l'histoire](#armes-de-lhistoire)
+4. [Boss de l'histoire](#boss-de-lhistoire)
+5. [Configuration](#configuration-minimal)
+
+
 ## Introduction
 **Hades** est un jeu de type *roguelike* développé par [_Supergiant Games_](https://fr.wikipedia.org/wiki/Supergiant_Games) et est dévoilé au grand public le 6 décembre 2018.
 Le jeux se développe sur le théme de la ~~2nd guerre mondiale~~ Grèce Antique et de la mythologie. 
