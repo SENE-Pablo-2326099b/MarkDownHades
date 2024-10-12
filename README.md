@@ -60,7 +60,7 @@ Or, il ne faut pas s’attendre à refaire le même parcours. En effet, l’envi
 Tier List [^1]
 
 
-## Les boss
+## Les boss de l'histoire
 * Mégère
 * Tisiphone
 * Alecto
