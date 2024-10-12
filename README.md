@@ -61,12 +61,31 @@ Tier List [^1]
 
 
 ## Les boss du jeux
-* Mégère
-* Tisiphone
-* Alecto
-* L'Hydre de Lerne
-* Thésée et Astérion
-* Hadès
+* ### **Mégère**
+  ![Megere](https://static.wikia.nocookie.net/hades_gamepedia_en/images/6/6b/Megaera_serious.png/revision/latest/scale-to-width/360?cb=20191204200325)
+  > "Une des Furies, elle est chargée de punir Zagreus pour ses tentatives d'évasion. Elle utilise des attaques rapides et des éclairs en chaîne."
+
+* ### **Tisiphone**
+  ![Tisiphone](https://static.wikia.nocookie.net/hades_gamepedia_en/images/b/b6/Tisiphone.png/revision/latest?cb=20190314173538)
+  > "Une autre Furie, obsédée par le mot "meurtre". Elle utilise des attaques chaotiques et un terrain réduit pendant le combat."
+
+* ### **Alecto**
+  ![Alecto](https://github.com/user-attachments/assets/497d31de-1572-4cc8-8d3b-9599a9a30cdb)
+  > "La dernière des Furies, elle se nourrit de la colère. Son pouvoir augmente à mesure que le combat progresse, rendant ses attaques de plus en plus violentes."
+
+* ### **L'Hydre de Lerne**
+  ![L'Hydre de Lerne](https://static.wikia.nocookie.net/hades_gamepedia_en/images/2/25/Bone_Hydra_Purple.png/revision/latest/scale-to-width-down/250?cb=20210409143143)
+  > "Un monstre mythique à plusieurs têtes, gardien du Styx. Chaque tête a des attaques spécifiques, et des têtes supplémentaires apparaissent à mesure que Zagreus progresse dans le combat."
+
+* ### **Thésée et Astérion**
+  ![Thésée et Astérion](https://github.com/user-attachments/assets/a447269a-07f4-464c-a139-0d3be9b27333)
+
+  > "Un duo de combattants, Thésée est un héros avec des lances et un bouclier, tandis qu'Astérion, un Minotaure, utilise des charges puissantes. Ils coordonnent leurs attaques pour
+     déstabiliser Zagreus."
+
+* ### **Hadès**
+  ![Hadès](https://github.com/user-attachments/assets/9c471c61-9607-4fa7-8272-5d522de04571)
+  > "Le roi des Enfers, père de Zagreus. Il utilise une grande variété d'attaques puissantes, de la téléportation aux vagues de projectiles, et il peut se soigner durant le combat."
 
 Tier List [^2]
 
